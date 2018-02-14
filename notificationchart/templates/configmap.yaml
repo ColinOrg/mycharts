@@ -1,0 +1,11 @@
+
+apiVersion: v1
+kind: ConfigMap
+meta
+data:
+name
+: {{ .Release.Name }}
+-
+configmap1
+data:
+myvalue: {{ .Values.myvalue }}
