@@ -2,11 +2,11 @@ apiVersion: v1
 entries:
   notificationchart:
   - apiVersion: v1
-    created: 2018-02-14T15:33:02.524131242-08:00
+    created: 2018-02-19T08:39:13.736984582-08:00
     description: A Helm chart for Kubernetes
-    digest: ee958eba7371e53bb56aba1c637b5ce211f8d3e8dd89cbed22e596248e0afa1b
+    digest: 51e293073762c779da48612aa7d8d9886b7a35bfd8f7729c8e32afb6b9df705e
     name: notificationchart
     urls:
     - https://ColinOrg.github.io/mycharts/notificationchart-0.1.0.tgz
     version: 0.1.0
-generated: 2018-02-14T15:33:02.523399716-08:00
+generated: 2018-02-19T08:39:13.736262942-08:00
